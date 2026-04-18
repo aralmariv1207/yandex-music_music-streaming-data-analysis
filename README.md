@@ -2,7 +2,7 @@
 
 ## About
 
-This project conducts an exploratory deep-dive into a global streaming service catalog. By leveraging Python and the Pandas library, I analyzed thousands of titles to identify content trends, growth patterns, and genre distributions. This research serves as a tool for understanding how a streaming platform curates its library and balances different content types to maintain subscriber engagement.
+This project conducts a systematic survey of a global streaming service's content library. By leveraging Python and the Pandas library, I analyzed thousands of titles to identify catalog trends, production cycles, and genre distributions. This analysis provides a data-driven overview of how the platform balances its content mix (Movies vs. TV Shows) and evolves its acquisition strategy to meet global demand.
 
 ## Technical Highlights 
 
